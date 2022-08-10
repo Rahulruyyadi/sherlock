@@ -1,0 +1,29 @@
+ .u-section-1 {
+  background-image: url("images/67c99171bf41128e690f3fedc6194b42.jpg");
+  background-position: 50% 50%;
+  min-height: 810px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 668px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 512px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 384px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 242px;
+  }
+}
